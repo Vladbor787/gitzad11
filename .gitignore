@@ -1,5 +1,5 @@
 # игнорируем папку tmp и все что внутри
-tmp
+tmp/
 
 # Игнорируем файлы Thumbs.db и .DS_Store
 Thumbs.db
